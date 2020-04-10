@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ArrayReplace{
+public class ArrayReplace{    //Asked in CGI hackathon recruitment
 	public static void main(String args[]){
 		Scanner scan=new Scanner(System.in);
 		int n=scan.nextInt();
